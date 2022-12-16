@@ -1,1 +1,1 @@
-# OpenApiToRestApi
+# SwaggerToRestApi

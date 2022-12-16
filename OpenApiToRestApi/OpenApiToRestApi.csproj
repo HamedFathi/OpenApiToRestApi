@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<Authors>Hamed Fathi</Authors>
+		<Company />
+		<PublishRepositoryUrl>true</PublishRepositoryUrl>
+		<Version>0.0.1</Version>
+		<Nullable>enable</Nullable>
+		<LangVersion>latest</LangVersion>
+		<PackageProjectUrl>https://github.com/HamedFathi/OpenApiToRestApi</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/HamedFathi/OpenApiToRestApi</RepositoryUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+	</PropertyGroup>
+	<ItemGroup>
+		<PackageReference Include="OpenApiExtended" Version="0.1.0" />
+	</ItemGroup>
+</Project>
