@@ -6,5 +6,7 @@ public enum TemplateType
 {
     Axios,
     Fetch,
-    CSharpHttpClient
+    CSharpHttpClient,
+    Playwright,
+    Cypress
 }

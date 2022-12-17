@@ -13,6 +13,6 @@
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 	</PropertyGroup>
 	<ItemGroup>
-		<PackageReference Include="OpenApiExtended" Version="0.1.0" />
+		<PackageReference Include="OpenApiExtended" Version="0.1.1" />
 	</ItemGroup>
 </Project>
